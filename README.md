@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Zachary Harris or @SeymoreBiggins on GitHub!
+- 👀 I’m interested in Web Development but have experience working with Data Management and Analytics
+- 🌱 I’m currently learning about ETL's with AWS.
