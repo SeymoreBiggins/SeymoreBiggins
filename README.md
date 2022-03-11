@@ -28,9 +28,11 @@ const Zachary = {
     <img src="https://github-readme-stats-omega-gules-38.vercel.app/api?count_private=true&username=SeymoreBiggins&show_icons=true&theme=dark&hide=stars,contribs" 
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-	<em>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</em>
-</div>
+<br/>
+	
+<em>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</em>
+
+<br/>
 		
 <p align="center"> 
   Visitor count<br>
