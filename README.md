@@ -25,9 +25,9 @@ const Zachary = {
 ```
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-    <img src="https://github.com/SeymoreBiggins/github-readme-stats/api?username=SeymoreBiggins&show_icons=true&theme=dark" 
+    <img src="https://vercel-readme-stats-kappa.vercel.app/api?username=SeymoreBiggins&show_icons=true&theme=dark" 
     style="max-width: 75% important!;">
-    <img src="https://github.com/SeymoreBiggins/github-readme-stats/api/top-langs/?username=SeymoreBiggins&langs_count=8&theme=dark&layout=compact">
+    <img src="https://vercel-readme-stats-kappa.vercel.app/api/top-langs/?username=SeymoreBiggins&langs_count=8&theme=dark&layout=compact">
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</b></em>
