@@ -24,6 +24,8 @@ const Zachary = {
 };
 ```
 
+<br></br>
+
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
     <img src="https://github-readme-stats-omega-gules-38.vercel.app/api?count_private=true&username=SeymoreBiggins&show_icons=true&theme=dark&hide=stars,contribs" 
 </div>
