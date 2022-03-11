@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+my+name+is+Zachary+Harris.;I+am+a+Full+Stack+Web+Developer.)](https://git.io/typing-svg)
 
 [![Linkedin: Zachary Harris](https://img.shields.io/badge/-zacharyharris01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachary-harris-01/)](https://www.linkedin.com/in/zachary-harris-01/)
-[![Email: Adam Taylor](https://img.shields.io/badge/-zachharris024@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
+[![Email: Zachary Harris](https://img.shields.io/badge/-zachharris024@gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox)](https://mail.google.com/mail/u/1/#inbox)
+
+<br></br>
 
 ```javascript
 const Zachary = {
