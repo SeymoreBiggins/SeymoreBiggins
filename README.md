@@ -25,9 +25,9 @@ const Zachary = {
 ```
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-    <img src="https://github-readme-stats-omega-gules-38.vercel.app/api?username=SeymoreBiggins&show_icons=true&theme=dark&count_private=true" 
+    <img src="https://github-readme-stats-omega-gules-38.vercel.app/api?count_private=true&show_icons=true&theme=dark&count_private=true" 
     style="max-width: 75% important!;">
-    <img src="https://github-readme-stats-omega-gules-38.vercel.app/api/top-langs?username=SeymoreBiggins&langs_count=8&theme=dark&layout=compact&count_private=true">
+    <img src="https://github-readme-stats-omega-gules-38.vercel.app/api/top-langs?count_private=true&langs_count=8&theme=dark&layout=compact&count_private=true">
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people! Please feel free to send an email or reach out on Linkedin! :)</b></em>
