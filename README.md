@@ -9,7 +9,7 @@
 const Zachary = {
     pronouns: "He" | "Him",
     codingLanguages: ["Javascript", "TypeScript", "React", "React Native", "Redux", "HTML/CSS"],
-    askMeAbout: ["Web Dev", "State Management", "Material Design", "Phonk", "Dark Souls"],
+    askMeAbout: ["Web Dev", "State Management", "Material Design", "Soundclown", "Fromsoft"],
     technologies: {
         frontEnd: ["HTML5", "CSS", "React", "Material UI", "Bootstrap"],
         backEnd: {
